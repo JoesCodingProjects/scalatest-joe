@@ -1,0 +1,4 @@
+[debug] [scalatest-joe-build] Classpath dependencies List()
+[debug] [scalatest-joe-build] Dependencies from configurations List()
+[debug] Bloop wrote the configuration of project 'scalatest-joe-build' to 'C:\Users\j.mccay\Desktop\ScalaTest\scalatest-joe\project\.bloop\scalatest-joe-build.json'
+[success] Generated .bloop\scalatest-joe-build.json
